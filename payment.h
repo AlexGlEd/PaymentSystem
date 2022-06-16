@@ -1,6 +1,7 @@
 #pragma once
 #include <iostream>
 #include <string> // для std::to_string
+#include <memory>
 #include <vector>
 #include <algorithm>
 #include <map>
